@@ -1,11 +1,13 @@
 # 💫 About Me:
-Projetos próprios em fase de desenvolvimento:
+Projetos SaaS próprios:
 
 - Seducar
 - Tokenfy
 - Licitando
 - Konectadu
 - GoSMS
+- Certame
+- Videx 
 
 
 ## 🌐 Socials:
